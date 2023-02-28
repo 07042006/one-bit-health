@@ -1,5 +1,5 @@
 # One Bit Health
-One Bit Health is a mobile application to calculate people's BMI. Application of studies.
+One Bit Health is a mobile application to calculate people's MMI. Application of studies.
 
 ## Screenshots
 ![](https://github.com/07042006/one-bit-health/blob/main/OneBitHealthBanner.png)
